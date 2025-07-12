@@ -117,7 +117,7 @@ news.api.key=YOUR_NEWS_API_KEY
 
 ## ✨ Demo Screenshots
 
-> Coming soon (add screenshots here)
+> Added screenshots here
 
 1. User Registration - <img width="758" height="308" alt="image" src="https://github.com/user-attachments/assets/ab5708a3-c4c0-40b6-af8e-53dce3366623" />
 2. User Login - <img width="611" height="351" alt="image" src="https://github.com/user-attachments/assets/c201cce8-4fc1-400d-bba9-65ccac7315f1" />
